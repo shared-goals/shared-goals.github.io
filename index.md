@@ -2,28 +2,36 @@
 title:  "Share your Goals!"
 ---
 
-Our principles
-==============
+We believe that
+===============
 
-- time is the first and the most important resource to be measured and controlled
-- when your goal is shared with someone else you will gain it easier
+- **Time** is the most important resource to be measured and controlled
+- When **goal** is **shared** with someone else you will gain it easier
 
 So, don't go any furher - sign contract for working towards your goal and share it with your goal's partner
 
 ## Create new shared goal
 ```
 /newgoal RunEveryDay 1h everyday
-/newgoal FindHouseOfMyDream 3h every saturday,sunday
+/newgoal MoveToHouse 3h every saturday,sunday
 ```
 
 ## Join others goals
 ```
-/contract bongiozzo/LaunchSG 1h everyday
-/contract ewg/OpenPub 2h every mon,tue,wed,thu,fri
+/contract Adidas/RunEveryDay 45min everyday
+/contract bongiozzo/sg 1h everyday
 ```
 
-# Platforms
-- [Telegram](telegram)
+## Commit progress towards the goal
+```
+/commit sg 90min "Some fixes" "Finish /commit"
+```
+
+# Integrated Platforms
+- [Telegram](telegram) - Client for goals and friends management
+- [Facebook] - Client for goals and friends management
+- [VK] - Client for goals and friends management
+- [GitHub] - Automation for commits
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

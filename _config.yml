@@ -19,9 +19,9 @@ google_analytics:
 
 
 # Plugins
-plugins:
-  - jekyll-multiple-languages-plugin
+# plugins:
+#   - jekyll-multiple-languages-plugin
 #  - jekyll-paginate
 
-languages: ["ru", "en"]
-exclude_from_localizations: ["js", "images", "css", "scripts", "favicon.ico"]
+# languages: ["ru", "en"]
+# exclude_from_localizations: ["js", "images", "css", "scripts", "favicon.ico"]

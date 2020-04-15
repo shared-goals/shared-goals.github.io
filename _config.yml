@@ -1,1 +1,27 @@
 theme: jekyll-theme-minimal
+title: Shared Goals
+# logo: /assets/img/logo.png
+description: Mini Site about Shared Goals project
+show_downloads: true
+google_analytics:
+
+# name: Flex
+# markdown: kramdown
+# highlighter: pygments
+# exclude: ["LICENSE.txt", "README.md"]
+
+# baseurl: ""
+# permalink: /:title/
+
+# Paginate
+# paginate: 1
+# paginate_path: "/pagination/page:num/"
+
+
+# Plugins
+plugins:
+  - jekyll-multiple-languages-plugin
+#  - jekyll-paginate
+
+languages: ["ru", "en"]
+exclude_from_localizations: ["js", "images", "css", "scripts", "favicon.ico"]

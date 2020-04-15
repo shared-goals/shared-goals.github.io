@@ -13,15 +13,14 @@ So, don't go any furher - sign contract for working towards your goal and share 
 ## Create new shared goal
 ```
 /newgoal RunEveryDay 1h everyday
+/newgoal FindHouseOfMyDream 3h every saturday,sunday
 ```
 
-## Join 
+## Join others goals
 ```
-/contract my /run 1h everyday
+/contract bongiozzo/LaunchSG 1h everyday
+/contract ewg/OpenPub 2h every mon,tue,wed,thu,fri
 ```
-
-
-
 
 # Platforms
 - [Telegram](telegram)

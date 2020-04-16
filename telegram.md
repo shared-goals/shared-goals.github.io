@@ -20,20 +20,20 @@ help - Help on commands
 newgoal - Create new goal
 
 contract - Join the goal with contract.
-Example - /contract ewgeniyk/sg 4h every sat,sun
+/contract ewgeniyk/sg 4h every sat,sun
 
 commit - Commit contract's progress. 
-Example - /commit ewgeniyk/sg 1h 30min "Some fixes"
+/commit ewgeniyk/sg 1h 30min "Some fixes"
 
 contracts - View active contracts
 
 viewgoal - View goal's information.
-Example - /viewgoal b334b46f
+/viewgoal b334b46f
 
 editgoals - Edit my goals
 
 viewcontract - View goal's contract.
-Example - /viewcontract bongiozzo/sgfriends 
+/viewcontract bongiozzo/sgfriends 
 ```
 
 

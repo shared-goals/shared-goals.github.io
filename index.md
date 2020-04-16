@@ -27,7 +27,7 @@ You can inspire yourself with some public goals from the catalogue - or you can 
 ```
 /commit sg 90min "Some fixes" "Finish /commit"
 ```
-You should commit your progress every time you've made a contract and then SharedGoals will highligt your progress for your goal's partners. Assure you they will envy that you're hero!
+You should commit your progress every time you've made a specific contract - how much time was spent, what you've done and what you are going to do. SG will highligt the progress for your goal's partners nicely. Assure you - they will envy that you're hero ;)
 
 That's it!
 

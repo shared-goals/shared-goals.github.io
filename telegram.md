@@ -1,50 +1,13 @@
 Telegram 
 ========
 
-```
-/help
-```
-Help on commands.
+Telegram is a perfect platform for SG. Among different advantages, the most important one that it's used for meaningful collaboration usually and rarely for procrastination :)
 
+When you'll start conversation with @sharedgoalsbot it'll create profile for your automatically.
+Than create new goal, share it and start commiting your progress.
 
+Short listing of Telegram commands below:
 ```
-/newgoal LooseWeight 30m everyday 
-```
-Create new shared goal.
-
-```
-/contract ewgeniyk/sg 4h every sat,sun
-```
-Join the goal with contract.
-
-```
-/commit ewgeniyk/sg 1h 30min "Some fixes"
-```
-Commit contract's progress.
-
-```
-/contracts
-```
-View active contracts.
-
-```
-/viewgoal b334b46f
-```
-View goal's information.
-
-```
-/editgoals
-```
-Edit my goals
-
-```
-/viewcontract bongiozzo/sgfriends
-```
-View goal's contract.
-
-[Source code for Telegram client]
-
-<!--
 help - Help on commands
 newgoal - Create new goal
 contract - Join the goal with contract. Example - /contract ewgeniyk/sg 4h every sat,sun
@@ -53,4 +16,12 @@ contracts - View active contracts
 viewgoal - View goal's information. Example - /viewgoal b334b46f
 editgoals - Edit my goals
 viewcontract - View goal's contract. Example - /viewcontract bongiozzo/sgfriends 
--->
+```
+
+You can contribute to the [Source code of Telegram client] and make it better.
+
+Join as 
+```
+/contract bongiozzo/MakeTelegramSG 1h every monday
+```
+

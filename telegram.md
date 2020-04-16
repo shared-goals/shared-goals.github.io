@@ -4,9 +4,9 @@ Telegram
 Telegram is a perfect platform for SG. Among different advantages, the most important one that it's used for meaningful collaboration usually and rarely for procrastination :)
 
 When you'll start conversation with @sharedgoalsbot it'll create profile for your automatically.
-Than create new goal, share it and start commiting your progress.
+Thеn you can create new goal, share it and start commiting your progress. Easy.
 
-You can contribute to the [Source code of Telegram client] and make it better.
+BTW, You can contribute to the [Source code of Telegram client] and make it better!
 
 Join as 
 ```
@@ -35,5 +35,3 @@ editgoals - Edit my goals
 viewcontract - View goal's contract.
 /viewcontract bongiozzo/sgfriends 
 ```
-
-

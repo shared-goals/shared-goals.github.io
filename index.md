@@ -27,12 +27,6 @@ So, don't go any furher - sign contract for working towards your goal and share 
 /commit sg 90min "Some fixes" "Finish /commit"
 ```
 
-# Integrated Platforms
-- [Telegram](telegram) - Client for goals and friends management
-- [Facebook] - Client for goals and friends management
-- [VK] - Client for goals and friends management
-- [GitHub] - Automation for commits
-
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

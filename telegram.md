@@ -42,6 +42,7 @@ Edit my goals
 ```
 View goal's contract.
 
+[Source code for Telegram client]
 
 <!--
 help - Help on commands

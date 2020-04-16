@@ -1,7 +1,3 @@
----
-title:  "Share your Goals!"
----
-
 We believe that
 ===============
 

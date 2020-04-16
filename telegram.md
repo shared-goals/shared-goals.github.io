@@ -6,6 +6,13 @@ Telegram is a perfect platform for SG. Among different advantages, the most impo
 When you'll start conversation with @sharedgoalsbot it'll create profile for your automatically.
 Than create new goal, share it and start commiting your progress.
 
+You can contribute to the [Source code of Telegram client] and make it better.
+
+Join as 
+```
+/contract bongiozzo/MakeTelegramSG 1h every monday
+```
+
 Short listing of Telegram commands below:
 ```
 help - Help on commands
@@ -29,10 +36,4 @@ viewcontract - View goal's contract.
 Example - /viewcontract bongiozzo/sgfriends 
 ```
 
-You can contribute to the [Source code of Telegram client] and make it better.
-
-Join as 
-```
-/contract bongiozzo/MakeTelegramSG 1h every monday
-```
 

@@ -4,7 +4,7 @@ We believe that
 - **Time** is the most important resource to be measured and controlled
 - When **goal** is **shared** with someone else you will gain it easier
 
-So, don't go any furher - sign contract for working towards your goal and share it with your goal's partner
+So, don't wait any longer - sign contract for working towards your goal and share it with your goal's partner
 
 ## Create new shared goal
 ```

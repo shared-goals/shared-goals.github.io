@@ -1,4 +1,4 @@
-## [Web](https://web.sharedgoals.net)
+## [Web](user)
 ## [Telegram](telegram)
 ## [Facebook]
 ## [VK]

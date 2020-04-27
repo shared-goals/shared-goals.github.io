@@ -6,4 +6,4 @@
 ## [YourChoice]
 
 
-Telegram group for API discussion](https://t.me/sg_api)
+[Telegram group for API discussion](https://t.me/sg_api)

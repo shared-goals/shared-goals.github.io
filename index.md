@@ -3,7 +3,7 @@ We believe that
 
 - **Time** is the most important resource to be measured and controlled
 - When **goal** is **shared** with someone else you will gain it easier
-- Unifying initiatives should **be free - now and forever**
+- Unifying initiatives should **be free for people - now and forever**
 
 So, don't wait any longer - sign contract for working towards your goal and share it with your goal's partner.
 

@@ -1,5 +1,5 @@
-## [Web](user)
-## [Telegram](telegram)
+## [Web](http://web.sharedgoals.net/)
+## [Telegram Test](https://t.me/SharedGoalsTestBot) [Telegram Bot](https://t.me/sharedgoalsbot)
 ## [Facebook]
 ## [VK]
 ## [GitHub]
